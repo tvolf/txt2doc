@@ -1,0 +1,1 @@
+txt2doc.exe -i input.txt -c config.ini
